@@ -1,2 +1,2 @@
 # Amor Fati
-This contains documention of future articles and drafts
+This contains documentation of future articles and drafts
